@@ -25,12 +25,13 @@ This is an app that enables hair appointment-based businesses to take online boo
 
 **Required Must-have Stories**
 
-* User can create a new account
-* User can login
-* User can choose a hair sylist
-* User can select a price
-* User can book appointment
-* User can leave reviews
+- [x] User can use intro screen
+- [x] User can login
+- [ ] User can choose a hair sylist
+- [ ] User can select a price
+- [ ] User can book appointment
+- [ ] User can leave reviews
+
 
 
 ### 2. Screen Archetypes
@@ -69,6 +70,9 @@ This is an app that enables hair appointment-based businesses to take online boo
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
 <img src="https://i.imgur.com/LVgM2Nl.jpg" width=600>
+
+## GIF
+https://i.imgur.com/X2Gtswc.gif
 
 ### [BONUS] Digital Wireframes & Mockups
 
