@@ -27,6 +27,8 @@ This is an app that enables hair appointment-based businesses to take online boo
 
 - [x] User can use intro screen
 - [x] User can login
+- [x] Users have ability to open Camera
+- [x] Users have access to photo gallery
 - [ ] User can choose a hair sylist
 - [ ] User can select a price
 - [ ] User can book appointment
@@ -72,7 +74,9 @@ This is an app that enables hair appointment-based businesses to take online boo
 <img src="https://i.imgur.com/LVgM2Nl.jpg" width=600>
 
 ## GIF
-https://i.imgur.com/X2Gtswc.gif
+GIF 1 : https://i.imgur.com/X2Gtswc.gif
+
+GIF 2 : https://i.imgur.com/rIYr8bz.gif
 
 ### [BONUS] Digital Wireframes & Mockups
 
