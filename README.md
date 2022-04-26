@@ -73,7 +73,7 @@ This is an app that enables hair appointment-based businesses to take online boo
    * Star icons
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://i.imgur.com/LVgM2Nl.jpg" width=600>
+<img src="https://i.imgur.com/cwa8dLC.jpg" width=600>
 
 ## GIF
 GIF 1 : https://i.imgur.com/X2Gtswc.gif
