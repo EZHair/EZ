@@ -31,9 +31,8 @@ This is an app that enables hair appointment-based businesses to take online boo
 - [x] Users have access to photo gallery
 - [x] User can choose a hair style from Gallery
 - [x] User can add a comment to the picture to post of the feed screen
-- [ ] User can select a price
-- [ ] User can book appointment
-- [ ] User can leave reviews
+- [x] User can leave reviews
+- [x] User can view "Thank You" screen and return to feedview 
 
 
 
@@ -44,13 +43,15 @@ This is an app that enables hair appointment-based businesses to take online boo
 * Login Screen
    * User can login
    * User can create new account
-* Book Screen
-   * User can choose a hair sylist
-   * User can select a price  
-   * User can book appointment
+* Feed Screen
+   * User can upload what hair styles they would like to view
+   * User can view other styles
 * Review Screen
-   * User can select a review star rating
-   * User cna type review
+   * User can thumbs up or thumbs down
+   * User can type review
+* Thank You Screen
+   * Thanks User for review
+   * Returns User to feed screen
 
 ### 3. Navigation
 
@@ -80,6 +81,8 @@ GIF 1 : https://i.imgur.com/X2Gtswc.gif
 GIF 2 : https://i.imgur.com/rIYr8bz.gif
 
 GIF 3 : https://i.imgur.com/MNDfPye.gif
+
+GIF 4 : https://i.imgur.com/68KP27G.gif
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
